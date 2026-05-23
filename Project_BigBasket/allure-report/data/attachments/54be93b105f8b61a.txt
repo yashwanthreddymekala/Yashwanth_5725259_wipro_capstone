@@ -1,0 +1,2 @@
+Products Added And Checkout Opened Successfully
+Report successfully generated to allure-report

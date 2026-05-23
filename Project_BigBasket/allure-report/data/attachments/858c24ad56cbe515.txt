@@ -1,0 +1,2 @@
+[32mINFO    [0m root:tests_negative.py:24 Opening BigBasket Website
+[32mINFO    [0m root:tests_negative.py:28 Clicking Login Button

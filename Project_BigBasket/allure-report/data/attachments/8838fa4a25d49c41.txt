@@ -1,0 +1,10 @@
+[32mINFO    [0m root:tests_negative.py:55 Reading CSV Data
+[32mINFO    [0m root:tests_negative.py:61 Opening BigBasket Website
+[32mINFO    [0m root:tests_negative.py:65 Clicking Login Button
+[32mINFO    [0m root:tests_negative.py:69 Entering Mobile Number
+[32mINFO    [0m root:tests_negative.py:73 Clicking Continue Button
+[32mINFO    [0m root:tests_negative.py:77 Enter Invalid OTP Manually
+[32mINFO    [0m root:tests_negative.py:80 Clicking Verify & Continue
+[32mINFO    [0m root:screenshot_util.py:25 Screenshot saved at: reports/screenshots/invalid_otp_20260520_132256.png
+[32mINFO    [0m root:tests_negative.py:87 Screenshot Captured for Invalid OTP
+[32mINFO    [0m root:tests_negative.py:94 Invalid OTP Test Passed

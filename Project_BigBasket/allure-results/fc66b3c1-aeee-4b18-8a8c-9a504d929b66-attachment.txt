@@ -1,0 +1,19 @@
+[32mINFO    [0m root:test_E2E.py:29 Opening BigBasket Website
+[32mINFO    [0m root:test_E2E.py:35 Clicking Login Button
+[32mINFO    [0m root:test_E2E.py:41 Entering Mobile Number
+[32mINFO    [0m root:test_E2E.py:47 Clicking Continue Button
+[32mINFO    [0m root:test_E2E.py:52 Waiting For OTP
+[32mINFO    [0m root:test_E2E.py:57 Clicking Verify Button
+[32mINFO    [0m root:test_E2E.py:63 Clicking Shop By Category
+[32mINFO    [0m root:test_E2E.py:69 Clicking Fashion
+[32mINFO    [0m root:test_E2E.py:75 Clicking Footwear
+[32mINFO    [0m root:test_E2E.py:81 Opening Brands Filter
+[32mINFO    [0m root:test_E2E.py:87 Selecting Adidas Sports
+[32mINFO    [0m root:test_E2E.py:93 Adding First Product
+[32mINFO    [0m root:test_E2E.py:99 Scrolling Half Page
+[32mINFO    [0m root:test_E2E.py:105 Selecting Action Checkbox
+[32mINFO    [0m root:test_E2E.py:111 Adding Second Product
+[32mINFO    [0m root:test_E2E.py:117 Opening Basket
+[32mINFO    [0m root:test_E2E.py:123 Incrementing Product Quantity
+[32mINFO    [0m root:test_E2E.py:129 Proceeding To Checkout
+[32mINFO    [0m root:test_E2E.py:135 Test Case Passed Successfully

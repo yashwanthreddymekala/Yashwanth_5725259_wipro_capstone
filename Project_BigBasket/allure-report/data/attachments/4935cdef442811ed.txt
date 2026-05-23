@@ -1,0 +1,19 @@
+[32mINFO    [0m root:conftest.py:26 Browser Opened
+[32mINFO    [0m root:conftest.py:30 URL Loaded
+[32mINFO    [0m root:tests_positive.py:29 Opening BigBasket Website
+[32mINFO    [0m root:tests_positive.py:35 Clicking Login Button
+[32mINFO    [0m root:tests_positive.py:41 Entering Mobile Number
+[32mINFO    [0m root:tests_positive.py:47 Clicking Continue Button
+[32mINFO    [0m root:tests_positive.py:52 Waiting For OTP
+[32mINFO    [0m root:tests_positive.py:57 Clicking Verify Button
+[32mINFO    [0m root:tests_positive.py:63 Clicking Shop By Category
+[32mINFO    [0m root:tests_positive.py:69 Clicking Fashion
+[32mINFO    [0m root:tests_positive.py:75 Clicking Footwear
+[32mINFO    [0m root:tests_positive.py:81 Opening Brands Filter
+[32mINFO    [0m root:tests_positive.py:87 Selecting Adidas Sports
+[32mINFO    [0m root:tests_positive.py:93 Adding First Product
+[32mINFO    [0m root:tests_positive.py:99 Scrolling Half Page
+[32mINFO    [0m root:tests_positive.py:105 Selecting Action Checkbox
+[32mINFO    [0m root:tests_positive.py:111 Adding Second Product
+[32mINFO    [0m root:tests_positive.py:117 Opening Basket
+[32mINFO    [0m root:conftest.py:34 Closing Browser

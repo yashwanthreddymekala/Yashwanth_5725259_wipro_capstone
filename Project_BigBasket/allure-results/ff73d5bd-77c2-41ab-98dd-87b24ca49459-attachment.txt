@@ -1,0 +1,4 @@
+[32mINFO    [0m root:tests_negative.py:24 Opening BigBasket Website
+[32mINFO    [0m root:tests_negative.py:28 Clicking Login Button
+[32mINFO    [0m root:tests_negative.py:32 Entering Invalid Mobile Number
+[32mINFO    [0m root:tests_negative.py:36 Checking Continue Button Disabled

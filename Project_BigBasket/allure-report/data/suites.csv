@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","141476","test_login","tests","2026-05-20","passed","2026-05-20","","test_E2E","",""
+"","14918","test_negative_scenarios","tests","2026-05-20","passed","2026-05-20","","tests_negative","",""
+"","126926","test_login","tests","2026-05-20","passed","2026-05-20","","tests_positive","",""
+"","50288","Invalid OTP Test","tests","2026-05-20","passed","2026-05-20","","tests_negative","",""

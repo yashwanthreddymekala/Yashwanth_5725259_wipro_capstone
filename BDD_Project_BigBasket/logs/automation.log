@@ -1,0 +1,436 @@
+2026-05-21 17:50:58,389 : INFO : Opening BigBasket website
+2026-05-21 17:51:01,648 : INFO : BigBasket website opened successfully
+2026-05-21 17:51:01,650 : INFO : Entering mobile number
+2026-05-21 17:51:20,753 : INFO : Mobile number entered successfully
+2026-05-21 17:51:20,755 : INFO : Waiting for OTP entry (manual step)
+2026-05-21 17:51:51,586 : INFO : OTP verified and continue clicked
+2026-05-21 17:51:51,588 : INFO : Clicking Fashion category
+2026-05-21 17:51:57,390 : INFO : Fashion category opened
+2026-05-21 17:51:57,392 : INFO : Selecting Mens category
+2026-05-21 17:52:04,071 : INFO : Mens category selected
+2026-05-21 17:52:04,080 : INFO : Filtering products by Puma brand
+2026-05-21 17:52:04,081 : INFO : Adding first product to cart
+2026-05-21 17:52:04,128 : INFO : First product added
+2026-05-21 17:52:04,129 : INFO : Adding second product to cart
+2026-05-21 17:52:04,185 : INFO : Second product added
+2026-05-21 17:52:04,186 : INFO : Opening cart page
+2026-05-21 17:52:11,473 : INFO : Cart page opened
+2026-05-21 17:52:11,482 : INFO : Validating cart page URL
+2026-05-21 17:52:11,644 : INFO : Cart page validation passed
+2026-05-21 17:52:11,655 : INFO : Clicking proceed to checkout
+2026-05-21 17:52:24,761 : INFO : Checkout initiated
+2026-05-21 18:06:19,056 : INFO : Opening BigBasket website
+2026-05-21 18:06:22,475 : INFO : BigBasket website opened successfully
+2026-05-21 18:06:22,476 : INFO : Entering mobile number
+2026-05-21 18:06:41,618 : INFO : Mobile number entered successfully
+2026-05-21 18:06:41,620 : INFO : Waiting for OTP entry (manual step)
+2026-05-21 18:07:12,926 : INFO : OTP verified and continue clicked
+2026-05-21 18:07:12,927 : INFO : Clicking Fashion category
+2026-05-21 18:07:18,590 : INFO : Fashion category opened
+2026-05-21 18:07:18,592 : INFO : Selecting Mens category
+2026-05-21 18:07:23,763 : INFO : Mens category selected
+2026-05-21 18:07:23,765 : INFO : Filtering products by Puma brand
+2026-05-21 18:07:23,766 : INFO : Adding first product to cart
+2026-05-21 18:07:23,820 : INFO : First product added
+2026-05-21 18:07:23,821 : INFO : Adding second product to cart
+2026-05-21 18:07:23,859 : INFO : Second product added
+2026-05-21 18:07:23,860 : INFO : Opening cart page
+2026-05-21 18:07:30,555 : INFO : Cart page opened
+2026-05-21 18:07:30,556 : INFO : Validating cart page URL
+2026-05-21 18:07:30,561 : INFO : Cart page validation passed
+2026-05-21 18:07:30,563 : INFO : Clicking proceed to checkout
+2026-05-21 18:07:43,644 : INFO : Checkout initiated
+2026-05-21 18:15:48,978 : INFO : Opening BigBasket website
+2026-05-21 18:15:53,737 : INFO : Opening BigBasket website
+2026-05-21 18:16:00,929 : INFO : Opening BigBasket website
+2026-05-21 22:35:18,800 : INFO : Opening BigBasket website
+2026-05-21 22:35:21,625 : INFO : BigBasket website opened successfully
+2026-05-21 22:35:21,626 : INFO : Entering mobile number
+2026-05-21 22:35:40,224 : INFO : Mobile number entered successfully
+2026-05-21 22:35:40,227 : INFO : Waiting for OTP entry (manual step)
+2026-05-21 22:39:31,046 : INFO : Opening BigBasket website
+2026-05-21 22:39:33,119 : INFO : BigBasket website opened successfully
+2026-05-21 22:39:33,120 : INFO : Entering mobile number
+2026-05-21 22:39:51,759 : INFO : Mobile number entered successfully
+2026-05-21 22:39:51,760 : INFO : Waiting for OTP entry (manual step)
+2026-05-21 22:40:22,731 : INFO : OTP verified and continue clicked
+2026-05-21 22:40:22,734 : INFO : Clicking Fashion category
+2026-05-21 22:40:27,561 : INFO : Fashion category opened
+2026-05-21 22:40:27,562 : INFO : Selecting Mens category
+2026-05-21 22:40:32,257 : INFO : Mens category selected
+2026-05-21 22:40:32,263 : INFO : Filtering products by Puma brand
+2026-05-21 22:40:32,265 : INFO : Adding first product to cart
+2026-05-21 22:40:32,310 : INFO : First product added
+2026-05-21 22:40:32,312 : INFO : Adding second product to cart
+2026-05-21 22:40:32,354 : INFO : Second product added
+2026-05-21 22:40:32,355 : INFO : Opening cart page
+2026-05-21 22:40:38,742 : INFO : Cart page opened
+2026-05-21 22:40:38,743 : INFO : Validating cart page URL
+2026-05-21 22:40:38,797 : INFO : Cart page validation passed
+2026-05-21 22:40:38,798 : INFO : Clicking proceed to checkout
+2026-05-21 22:40:51,865 : INFO : Checkout initiated
+2026-05-21 22:42:48,430 : INFO : Opening BigBasket website
+2026-05-21 22:42:50,720 : INFO : BigBasket website opened successfully
+2026-05-21 22:42:50,721 : INFO : Entering mobile number
+2026-05-21 22:43:09,320 : INFO : Mobile number entered successfully
+2026-05-21 22:43:09,321 : INFO : Waiting for OTP entry (manual step)
+2026-05-21 22:53:11,775 : INFO : Opening BigBasket website
+2026-05-21 22:53:13,830 : INFO : BigBasket website opened successfully
+2026-05-21 22:53:13,831 : INFO : Entering mobile number
+2026-05-21 22:53:32,417 : INFO : Mobile number entered successfully
+2026-05-21 22:53:32,419 : INFO : Waiting for OTP entry (manual step)
+2026-05-21 22:53:53,071 : INFO : OTP verified and continue clicked
+2026-05-21 22:53:53,072 : INFO : Clicking Fashion category
+2026-05-21 22:55:13,661 : INFO : Opening BigBasket website
+2026-05-21 22:55:15,804 : INFO : BigBasket website opened successfully
+2026-05-21 22:55:15,804 : INFO : Entering mobile number
+2026-05-21 22:55:34,278 : INFO : Mobile number entered successfully
+2026-05-21 22:55:34,280 : INFO : Waiting for OTP entry (manual step)
+2026-05-21 22:56:05,176 : INFO : OTP verified and continue clicked
+2026-05-21 22:56:05,178 : INFO : Clicking Fashion category
+2026-05-21 22:56:11,628 : INFO : Fashion category opened
+2026-05-21 22:56:11,630 : INFO : Selecting Mens category
+2026-05-21 22:56:17,294 : INFO : Mens category selected
+2026-05-21 22:56:17,295 : INFO : Filtering products by Puma brand
+2026-05-21 22:56:17,296 : INFO : Adding first product to cart
+2026-05-21 22:56:17,349 : INFO : First product added
+2026-05-21 22:56:17,350 : INFO : Adding second product to cart
+2026-05-21 22:56:17,377 : INFO : Second product added
+2026-05-21 22:56:17,379 : INFO : Opening cart page
+2026-05-21 22:56:23,641 : INFO : Cart page opened
+2026-05-21 22:56:23,642 : INFO : Validating cart page URL
+2026-05-21 22:56:23,784 : INFO : Cart page validation passed
+2026-05-21 22:56:23,785 : INFO : Clicking proceed to checkout
+2026-05-21 22:58:06,490 : INFO : Opening BigBasket website
+2026-05-21 22:58:08,591 : INFO : BigBasket website opened successfully
+2026-05-21 22:58:08,591 : INFO : Entering mobile number
+2026-05-21 22:58:27,095 : INFO : Mobile number entered successfully
+2026-05-21 22:58:27,098 : INFO : Waiting for OTP entry (manual step)
+2026-05-21 22:58:57,908 : INFO : OTP verified and continue clicked
+2026-05-21 22:58:57,911 : INFO : Clicking Fashion category
+2026-05-21 22:59:03,424 : INFO : Fashion category opened
+2026-05-21 22:59:03,426 : INFO : Selecting Mens category
+2026-05-21 22:59:08,523 : INFO : Mens category selected
+2026-05-21 22:59:08,525 : INFO : Filtering products by Puma brand
+2026-05-21 22:59:08,526 : INFO : Adding first product to cart
+2026-05-21 22:59:08,594 : INFO : First product added
+2026-05-21 22:59:08,595 : INFO : Adding second product to cart
+2026-05-21 22:59:08,627 : INFO : Second product added
+2026-05-21 22:59:08,628 : INFO : Opening cart page
+2026-05-21 22:59:14,867 : INFO : Cart page opened
+2026-05-21 22:59:14,868 : INFO : Validating cart page URL
+2026-05-21 22:59:15,009 : INFO : Cart page validation passed
+2026-05-21 22:59:15,010 : INFO : Clicking proceed to checkout
+2026-05-21 22:59:48,060 : INFO : Opening BigBasket website
+2026-05-21 22:59:50,396 : INFO : BigBasket website opened successfully
+2026-05-21 22:59:50,397 : INFO : Entering mobile number
+2026-05-21 23:04:03,498 : INFO : Opening BigBasket website
+2026-05-21 23:04:06,007 : INFO : BigBasket website opened successfully
+2026-05-21 23:04:06,008 : INFO : Entering mobile number
+2026-05-21 23:07:12,187 : INFO : Opening BigBasket website
+2026-05-21 23:07:14,235 : INFO : BigBasket website opened successfully
+2026-05-21 23:07:14,237 : INFO : Entering mobile number
+2026-05-21 23:07:32,707 : INFO : Mobile number entered successfully
+2026-05-21 23:07:32,710 : INFO : Waiting for OTP entry (manual step)
+2026-05-21 23:08:03,662 : INFO : OTP verified and continue clicked
+2026-05-21 23:08:03,665 : INFO : Clicking Fashion category
+2026-05-21 23:08:09,256 : INFO : Fashion category opened
+2026-05-21 23:08:09,257 : INFO : Selecting Mens category
+2026-05-21 23:08:14,236 : INFO : Mens category selected
+2026-05-21 23:08:14,240 : INFO : Filtering products by Puma brand
+2026-05-21 23:08:14,242 : INFO : Adding first product to cart
+2026-05-21 23:08:14,309 : INFO : First product added
+2026-05-21 23:08:14,310 : INFO : Adding second product to cart
+2026-05-21 23:08:14,339 : INFO : Second product added
+2026-05-21 23:08:14,340 : INFO : Opening cart page
+2026-05-21 23:08:20,595 : INFO : Cart page opened
+2026-05-21 23:08:20,596 : INFO : Validating cart page URL
+2026-05-21 23:08:20,739 : INFO : Cart page validation passed
+2026-05-21 23:08:20,741 : INFO : Clicking proceed to checkout
+2026-05-21 23:11:30,115 : INFO : Opening BigBasket website
+2026-05-21 23:11:32,108 : INFO : BigBasket website opened successfully
+2026-05-21 23:11:32,109 : INFO : Entering mobile number
+2026-05-21 23:11:50,621 : INFO : Mobile number entered successfully
+2026-05-21 23:11:50,622 : INFO : Waiting for OTP entry (manual step)
+2026-05-21 23:12:21,412 : INFO : OTP verified and continue clicked
+2026-05-21 23:12:21,414 : INFO : Clicking Fashion category
+2026-05-21 23:12:26,786 : INFO : Fashion category opened
+2026-05-21 23:12:26,787 : INFO : Selecting Mens category
+2026-05-21 23:12:31,922 : INFO : Mens category selected
+2026-05-21 23:12:31,924 : INFO : Filtering products by Puma brand
+2026-05-21 23:12:31,926 : INFO : Adding first product to cart
+2026-05-21 23:12:31,986 : INFO : First product added
+2026-05-21 23:12:31,987 : INFO : Adding second product to cart
+2026-05-21 23:12:32,020 : INFO : Second product added
+2026-05-21 23:12:32,021 : INFO : Opening cart page
+2026-05-21 23:12:38,314 : INFO : Cart page opened
+2026-05-21 23:12:38,315 : INFO : Validating cart page URL
+2026-05-21 23:12:38,387 : INFO : Cart page validation passed
+2026-05-21 23:12:38,388 : INFO : Clicking proceed to checkout
+2026-05-21 23:16:33,566 : INFO : Opening BigBasket website
+2026-05-21 23:16:35,646 : INFO : Website opened
+2026-05-21 23:16:35,647 : INFO : Entering mobile number
+2026-05-21 23:24:57,302 : INFO : Opening BigBasket website
+2026-05-21 23:24:59,374 : INFO : BigBasket website opened successfully
+2026-05-21 23:24:59,375 : INFO : Entering mobile number
+2026-05-21 23:25:17,883 : INFO : Mobile number entered successfully
+2026-05-21 23:25:17,884 : INFO : Waiting for OTP entry (manual step)
+2026-05-21 23:25:48,615 : INFO : OTP verified and continue clicked
+2026-05-21 23:25:48,616 : INFO : Clicking Fashion category
+2026-05-21 23:25:54,323 : INFO : Fashion category opened
+2026-05-21 23:25:54,324 : INFO : Selecting Mens category
+2026-05-21 23:26:00,120 : INFO : Mens category selected
+2026-05-21 23:26:00,121 : INFO : Filtering products by Puma brand
+2026-05-21 23:26:00,122 : INFO : Adding first product to cart
+2026-05-21 23:26:00,171 : INFO : First product added
+2026-05-21 23:26:00,172 : INFO : Adding second product to cart
+2026-05-21 23:26:00,206 : INFO : Second product added
+2026-05-21 23:26:00,207 : INFO : Opening cart page
+2026-05-21 23:26:06,418 : INFO : Cart page opened
+2026-05-21 23:26:06,419 : INFO : Validating cart page URL
+2026-05-21 23:26:06,557 : INFO : Cart page validation passed
+2026-05-21 23:26:06,558 : INFO : Clicking proceed to checkout
+2026-05-22 11:59:36,074 : INFO : Opening BigBasket website
+2026-05-22 11:59:40,688 : INFO : BigBasket website opened successfully
+2026-05-22 11:59:40,690 : INFO : Entering mobile number
+2026-05-22 12:00:01,613 : INFO : Mobile number entered successfully
+2026-05-22 12:00:01,614 : INFO : Waiting for OTP entry (manual step)
+2026-05-22 12:00:32,603 : INFO : OTP verified and continue clicked
+2026-05-22 12:00:32,612 : INFO : Clicking Fashion category
+2026-05-22 12:00:59,226 : INFO : Fashion category opened
+2026-05-22 12:00:59,229 : INFO : Selecting Mens category
+2026-05-22 12:01:05,867 : INFO : Mens category selected
+2026-05-22 12:01:05,879 : INFO : Filtering products by Puma brand
+2026-05-22 12:01:05,882 : INFO : Adding first product to cart
+2026-05-22 12:01:05,942 : INFO : First product added
+2026-05-22 12:01:05,946 : INFO : Adding second product to cart
+2026-05-22 12:01:06,023 : INFO : Second product added
+2026-05-22 12:01:06,025 : INFO : Opening cart page
+2026-05-22 12:01:12,475 : INFO : Cart page opened
+2026-05-22 12:01:12,479 : INFO : Validating cart page URL
+2026-05-22 12:01:12,804 : INFO : Cart page validation passed
+2026-05-22 12:01:12,816 : INFO : Clicking proceed to checkout
+22/05/2026 12:51:44 PM : INFO : Opening BigBasket Website
+22/05/2026 12:52:01 PM : INFO : Clicking Login Button
+22/05/2026 12:52:04 PM : INFO : Entering Mobile Number
+22/05/2026 12:52:07 PM : INFO : Clicking Continue Button
+22/05/2026 12:52:07 PM : INFO : Waiting For OTP
+22/05/2026 12:52:27 PM : INFO : Clicking Verify Button
+22/05/2026 12:52:52 PM : INFO : Clicking Shop By Category
+22/05/2026 12:52:57 PM : INFO : Clicking Fashion
+22/05/2026 12:53:02 PM : INFO : Clicking Footwear
+22/05/2026 12:53:13 PM : INFO : Opening Brands Filter
+22/05/2026 12:53:18 PM : INFO : Selecting Adidas Sports
+22/05/2026 12:53:23 PM : INFO : Adding First Product
+22/05/2026 12:53:31 PM : INFO : Scrolling Half Page
+22/05/2026 12:53:36 PM : INFO : Selecting Action Checkbox
+22/05/2026 12:53:47 PM : INFO : Adding Second Product
+22/05/2026 12:53:55 PM : INFO : Opening Basket
+22/05/2026 12:59:31 PM : INFO : Opening BigBasket Website
+22/05/2026 12:59:47 PM : INFO : Clicking Login Button
+22/05/2026 12:59:50 PM : INFO : Entering Mobile Number
+22/05/2026 12:59:54 PM : INFO : Clicking Continue Button
+22/05/2026 12:59:54 PM : INFO : Waiting For OTP
+22/05/2026 01:00:14 PM : INFO : Clicking Verify Button
+22/05/2026 01:00:39 PM : INFO : Clicking Shop By Category
+22/05/2026 01:04:36 PM : INFO : Opening BigBasket Website
+22/05/2026 01:04:52 PM : INFO : Clicking Login Button
+22/05/2026 01:04:55 PM : INFO : Entering Mobile Number
+22/05/2026 01:04:58 PM : INFO : Clicking Continue Button
+22/05/2026 01:04:58 PM : INFO : Waiting For OTP
+22/05/2026 01:05:18 PM : INFO : Clicking Verify Button
+22/05/2026 01:05:44 PM : INFO : Clicking Shop By Category
+22/05/2026 01:09:00 PM : INFO : Opening BigBasket Website
+22/05/2026 01:09:17 PM : INFO : Clicking Login Button
+22/05/2026 01:09:20 PM : INFO : Entering Mobile Number
+22/05/2026 01:09:24 PM : INFO : Clicking Continue Button
+22/05/2026 01:09:24 PM : INFO : Waiting For OTP
+22/05/2026 01:09:44 PM : INFO : Clicking Verify Button
+22/05/2026 01:10:09 PM : INFO : Clicking Shop By Category
+22/05/2026 01:10:14 PM : INFO : Clicking Fashion
+22/05/2026 01:10:19 PM : INFO : Clicking Footwear
+22/05/2026 01:10:29 PM : INFO : Opening Brands Filter
+22/05/2026 01:10:34 PM : INFO : Selecting Adidas Sports
+22/05/2026 01:10:39 PM : INFO : Adding First Product
+22/05/2026 01:10:47 PM : INFO : Scrolling Half Page
+22/05/2026 01:10:52 PM : INFO : Selecting Action Checkbox
+22/05/2026 01:11:03 PM : INFO : Adding Second Product
+22/05/2026 01:11:11 PM : INFO : Opening Basket
+22/05/2026 02:31:56 PM : INFO : Opening BigBasket Website
+22/05/2026 02:32:09 PM : INFO : Clicking Login Button
+22/05/2026 02:32:13 PM : INFO : Entering Mobile Number
+22/05/2026 02:32:16 PM : INFO : Clicking Continue Button
+22/05/2026 02:32:16 PM : INFO : Waiting For OTP
+22/05/2026 02:32:36 PM : INFO : Clicking Verify Button
+22/05/2026 02:33:01 PM : INFO : Clicking Shop By Category
+22/05/2026 02:33:06 PM : INFO : Clicking Fashion
+22/05/2026 02:33:11 PM : INFO : Clicking Footwear
+22/05/2026 02:33:23 PM : INFO : Opening Brands Filter
+22/05/2026 02:33:28 PM : INFO : Selecting Adidas Sports
+22/05/2026 02:33:33 PM : INFO : Adding First Product
+22/05/2026 02:33:41 PM : INFO : Scrolling Half Page
+22/05/2026 02:33:46 PM : INFO : Selecting Action Checkbox
+22/05/2026 02:33:57 PM : INFO : Adding Second Product
+22/05/2026 02:34:05 PM : INFO : Opening Basket
+22/05/2026 02:34:37 PM : INFO : Incrementing Product Quantity
+22/05/2026 02:34:42 PM : INFO : Proceeding To Checkout
+22/05/2026 02:34:52 PM : INFO : Test Case Passed Successfully
+22/05/2026 03:30:38 PM : INFO : Opening BigBasket Website
+22/05/2026 03:30:45 PM : INFO : Clicking Login Button
+22/05/2026 03:30:53 PM : INFO : Entering Invalid Mobile Number
+22/05/2026 03:30:56 PM : INFO : Checking Continue Button Disabled
+22/05/2026 03:30:56 PM : INFO : Reading CSV Data
+22/05/2026 03:30:56 PM : INFO : Opening BigBasket Website
+22/05/2026 03:31:04 PM : INFO : Clicking Login Button
+22/05/2026 03:31:07 PM : INFO : Entering Mobile Number
+22/05/2026 03:31:11 PM : INFO : Clicking Continue Button
+22/05/2026 03:31:16 PM : INFO : Enter Invalid OTP Manually
+22/05/2026 03:31:31 PM : INFO : Clicking Verify & Continue
+22/05/2026 03:31:36 PM : INFO : Screenshot saved at: reports/screenshots/invalid_otp_20260522_153136.png
+22/05/2026 03:31:36 PM : INFO : Screenshot Captured for Invalid OTP
+22/05/2026 03:31:46 PM : INFO : Invalid OTP Test Passed
+22/05/2026 05:58:49 PM : INFO : Opening BigBasket Website
+22/05/2026 05:59:04 PM : INFO : Clicking Login Button
+22/05/2026 05:59:08 PM : INFO : Entering Invalid Mobile Number
+22/05/2026 05:59:11 PM : INFO : Checking Continue Button Disabled
+22/05/2026 05:59:11 PM : INFO : Reading CSV Data
+22/05/2026 05:59:11 PM : INFO : Opening BigBasket Website
+22/05/2026 05:59:19 PM : INFO : Clicking Login Button
+22/05/2026 05:59:23 PM : INFO : Entering Mobile Number
+22/05/2026 05:59:26 PM : INFO : Clicking Continue Button
+22/05/2026 05:59:31 PM : INFO : Enter Invalid OTP Manually
+22/05/2026 05:59:46 PM : INFO : Clicking Verify & Continue
+22/05/2026 05:59:51 PM : INFO : Screenshot saved at: reports/screenshots/invalid_otp_20260522_175951.png
+22/05/2026 05:59:51 PM : INFO : Screenshot Captured for Invalid OTP
+22/05/2026 06:00:01 PM : INFO : Invalid OTP Test Passed
+22/05/2026 06:18:54 PM : INFO : ====== WebDriver manager ======
+22/05/2026 06:18:55 PM : INFO : Get LATEST chromedriver version for google-chrome
+22/05/2026 06:18:56 PM : INFO : WebDriver version 149.0.7827.22 selected
+22/05/2026 06:18:56 PM : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.22/win64/chromedriver-win64.zip
+22/05/2026 06:18:56 PM : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.22/win64/chromedriver-win64.zip
+22/05/2026 06:18:57 PM : INFO : Driver downloading response is 200
+22/05/2026 06:19:11 PM : INFO : Get LATEST chromedriver version for google-chrome
+22/05/2026 06:19:12 PM : INFO : Driver has been saved in cache [C:\Users\yashw\.wdm\drivers\chromedriver\win64\149.0.7827.22]
+22/05/2026 06:19:15 PM : INFO : ====== WebDriver manager ======
+22/05/2026 06:19:16 PM : INFO : Get LATEST chromedriver version for google-chrome
+22/05/2026 06:19:17 PM : INFO : WebDriver version 149.0.7827.22 selected
+22/05/2026 06:19:17 PM : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.22/win64/chromedriver-win64.zip
+22/05/2026 06:19:17 PM : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.22/win64/chromedriver-win64.zip
+22/05/2026 06:19:18 PM : INFO : Driver downloading response is 200
+22/05/2026 06:19:34 PM : INFO : Get LATEST chromedriver version for google-chrome
+22/05/2026 06:19:37 PM : INFO : Driver has been saved in cache [C:\Users\yashw\.wdm\drivers\chromedriver\win64\149.0.7827.22]
+22/05/2026 06:21:01 PM : INFO : Opening BigBasket Website
+22/05/2026 06:21:07 PM : INFO : Clicking Login Button
+22/05/2026 06:21:12 PM : INFO : Entering Invalid Mobile Number
+22/05/2026 06:21:16 PM : INFO : Checking Continue Button Disabled
+22/05/2026 06:21:16 PM : INFO : Reading CSV Data
+22/05/2026 06:21:16 PM : INFO : Opening BigBasket Website
+22/05/2026 06:21:24 PM : INFO : Clicking Login Button
+22/05/2026 06:21:27 PM : INFO : Entering Mobile Number
+22/05/2026 06:21:30 PM : INFO : Clicking Continue Button
+22/05/2026 06:21:36 PM : INFO : Enter Invalid OTP Manually
+22/05/2026 06:21:51 PM : INFO : Clicking Verify & Continue
+22/05/2026 06:21:56 PM : INFO : Screenshot saved at: reports/screenshots/invalid_otp_20260522_182156.png
+22/05/2026 06:21:56 PM : INFO : Screenshot Captured for Invalid OTP
+22/05/2026 06:22:06 PM : INFO : Invalid OTP Test Passed
+22/05/2026 06:27:20 PM : INFO : Opening BigBasket Website
+22/05/2026 06:27:38 PM : INFO : Clicking Login Button
+22/05/2026 06:27:41 PM : INFO : Entering Invalid Mobile Number
+22/05/2026 06:27:44 PM : INFO : Checking Continue Button Disabled
+22/05/2026 06:27:45 PM : INFO : Reading CSV Data
+22/05/2026 06:27:45 PM : INFO : Opening BigBasket Website
+22/05/2026 06:27:53 PM : INFO : Clicking Login Button
+22/05/2026 06:27:56 PM : INFO : Entering Mobile Number
+22/05/2026 06:27:59 PM : INFO : Clicking Continue Button
+22/05/2026 06:28:05 PM : INFO : Enter Invalid OTP Manually
+22/05/2026 06:28:20 PM : INFO : Clicking Verify & Continue
+22/05/2026 06:28:25 PM : INFO : Screenshot saved at: reports/screenshots/invalid_otp_20260522_182825.png
+22/05/2026 06:28:25 PM : INFO : Screenshot Captured for Invalid OTP
+22/05/2026 06:28:35 PM : INFO : Invalid OTP Test Passed
+22/05/2026 06:35:01 PM : INFO : Opening BigBasket Website
+22/05/2026 06:35:21 PM : INFO : Clicking Login Button
+22/05/2026 06:35:25 PM : INFO : Entering Invalid Mobile Number
+22/05/2026 06:35:28 PM : INFO : Checking Continue Button Disabled
+22/05/2026 06:35:28 PM : INFO : Reading CSV Data
+22/05/2026 06:35:28 PM : INFO : Opening BigBasket Website
+22/05/2026 06:35:37 PM : INFO : Clicking Login Button
+22/05/2026 06:35:41 PM : INFO : Entering Mobile Number
+22/05/2026 06:35:44 PM : INFO : Clicking Continue Button
+22/05/2026 06:35:50 PM : INFO : Enter Invalid OTP Manually
+22/05/2026 06:36:05 PM : INFO : Clicking Verify & Continue
+22/05/2026 06:36:10 PM : INFO : Screenshot saved at: reports/screenshots/invalid_otp_20260522_183610.png
+22/05/2026 06:36:10 PM : INFO : Screenshot Captured for Invalid OTP
+22/05/2026 06:36:20 PM : INFO : Invalid OTP Test Passed
+23/05/2026 12:28:29 AM : INFO : Opening BigBasket Website
+23/05/2026 12:28:35 AM : INFO : Clicking Login Button
+23/05/2026 12:28:44 AM : INFO : Entering Mobile Number
+23/05/2026 12:28:47 AM : INFO : Clicking Continue Button
+23/05/2026 12:28:47 AM : INFO : Waiting For OTP
+23/05/2026 12:29:07 AM : INFO : Clicking Verify Button
+23/05/2026 12:29:33 AM : INFO : Opening Footwear Page
+23/05/2026 12:29:45 AM : INFO : Opening Brands Filter
+23/05/2026 12:29:51 AM : INFO : Selecting Adidas Sports
+23/05/2026 12:29:56 AM : INFO : Adding First Product
+23/05/2026 12:30:04 AM : INFO : Scrolling Half Page
+23/05/2026 12:30:09 AM : INFO : Selecting Action Checkbox
+23/05/2026 12:30:19 AM : INFO : Adding Second Product
+23/05/2026 12:30:27 AM : INFO : Opening Basket
+23/05/2026 10:06:31 AM : INFO : Opening BigBasket Website
+23/05/2026 10:06:52 AM : INFO : Clicking Login Button
+23/05/2026 10:06:55 AM : INFO : Entering Mobile Number
+23/05/2026 10:06:58 AM : INFO : Clicking Continue Button
+23/05/2026 10:06:59 AM : INFO : Waiting For OTP
+23/05/2026 10:07:19 AM : INFO : Clicking Verify Button
+23/05/2026 10:07:44 AM : INFO : Opening Footwear Page
+23/05/2026 10:07:57 AM : INFO : Opening Brands Filter
+23/05/2026 10:08:02 AM : INFO : Selecting Adidas Sports
+23/05/2026 10:08:08 AM : INFO : Adding First Product
+23/05/2026 10:08:16 AM : INFO : Scrolling Half Page
+23/05/2026 10:08:21 AM : INFO : Selecting Action Checkbox
+23/05/2026 10:08:31 AM : INFO : Adding Second Product
+23/05/2026 10:08:39 AM : INFO : Opening Basket
+23/05/2026 10:16:11 AM : INFO : Opening BigBasket Website
+23/05/2026 10:16:29 AM : INFO : Clicking Login Button
+23/05/2026 10:16:33 AM : INFO : Entering Mobile Number
+23/05/2026 10:16:36 AM : INFO : Clicking Continue Button
+23/05/2026 10:16:36 AM : INFO : Waiting For OTP
+23/05/2026 10:16:56 AM : INFO : Clicking Verify Button
+23/05/2026 10:17:21 AM : INFO : Clicking Shop By Category
+23/05/2026 10:17:29 AM : INFO : Opening BigBasket Website
+23/05/2026 10:17:53 AM : INFO : Clicking Login Button
+23/05/2026 10:17:56 AM : INFO : Entering Mobile Number
+23/05/2026 10:17:59 AM : INFO : Clicking Continue Button
+23/05/2026 10:17:59 AM : INFO : Waiting For OTP
+23/05/2026 10:18:19 AM : INFO : Clicking Verify Button
+23/05/2026 10:18:44 AM : INFO : Clicking Shop By Category
+23/05/2026 10:18:49 AM : INFO : Clicking Fashion
+23/05/2026 10:18:54 AM : INFO : Clicking Footwear
+23/05/2026 10:19:05 AM : INFO : Opening Brands Filter
+23/05/2026 10:19:10 AM : INFO : Selecting Adidas Sports
+23/05/2026 10:19:15 AM : INFO : Adding First Product
+23/05/2026 10:19:23 AM : INFO : Scrolling Half Page
+23/05/2026 10:19:28 AM : INFO : Selecting Action Checkbox
+23/05/2026 10:19:38 AM : INFO : Adding Second Product
+23/05/2026 10:19:46 AM : INFO : Opening Basket
+23/05/2026 10:20:18 AM : INFO : Incrementing Product Quantity
+23/05/2026 10:20:23 AM : INFO : Proceeding To Checkout
+23/05/2026 10:20:33 AM : INFO : Test Case Passed Successfully
+23/05/2026 10:29:54 AM : INFO : Opening BigBasket Website
+23/05/2026 10:30:20 AM : INFO : Clicking Login Button
+23/05/2026 10:30:23 AM : INFO : Entering Mobile Number
+23/05/2026 10:30:26 AM : INFO : Clicking Continue Button
+23/05/2026 10:30:26 AM : INFO : Waiting For OTP
+23/05/2026 10:30:46 AM : INFO : Clicking Verify Button
+23/05/2026 10:31:12 AM : INFO : Clicking Shop By Category
+23/05/2026 10:31:17 AM : INFO : Clicking Fashion
+23/05/2026 10:31:22 AM : INFO : Clicking Footwear
+23/05/2026 10:31:32 AM : INFO : Opening Brands Filter
+23/05/2026 10:31:38 AM : INFO : Selecting Adidas Sports
+23/05/2026 10:31:43 AM : INFO : Adding First Product
+23/05/2026 10:31:51 AM : INFO : Scrolling Half Page
+23/05/2026 10:31:56 AM : INFO : Selecting Action Checkbox
+23/05/2026 10:32:07 AM : INFO : Adding Second Product
+23/05/2026 10:32:15 AM : INFO : Opening Basket
+23/05/2026 10:32:46 AM : INFO : Incrementing Product Quantity
+23/05/2026 10:32:51 AM : INFO : Proceeding To Checkout
+23/05/2026 10:33:01 AM : INFO : Test Case Passed Successfully
